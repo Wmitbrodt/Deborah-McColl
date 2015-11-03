@@ -3,7 +3,7 @@ body {
        
     }
    * {
-   	font-family: 'futura-pt', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: 300;
   }
   html {
@@ -11,11 +11,11 @@ body {
   min-height: 100%;
 }
   /* -----------------------------  NAVBAR TOP -------------------------- */
-
  .navbar {
   background-color: #ffffff;
   border-bottom: 1px solid #eeeeee;
 }
+
 .navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
     border-color: #fff;
 }
@@ -27,24 +27,21 @@ body {
     -ms-transition: all 0.5s ease-in-out;
     -o-transition: all 0.5s ease-in-out;
  }
- .navbar-inverse .navbar-brand {
+  .navbar-inverse .navbar-brand {
     text-decoration: none;
-    color: #2a2a2a;
+    color: #2a2a2a !important;
     letter-spacing: 0.3em;
     font-size: 1.4em;
-    font-weight: 100;
+    font-weight: 200;
  }
  .navbar-inverse .navbar-brand:hover {
-    text-decoration: none;
-    color: #2a2a2a;
-    letter-spacing: 0.3em;
-    font-size: 1.4em;
-    font-weight: 100;
-}
+    color: #2a2a2a !important;
+  }
+    
 .navbar-nav > li > a {
     color: #989898;
-    font-family: Helvetica,Arial,sans-serif;
-    font-size: 0.9em;
+    font-family: 'Raleway', sans-serif;
+    font-size: .9em;
     font-weight: 300;
     letter-spacing: 0.15em;
     text-decoration: none;

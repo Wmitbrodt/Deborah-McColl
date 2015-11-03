@@ -1,11 +1,23 @@
-body {
+  body {
         padding-top: 90px;
-       
-    }
-   * {
-   	font-family: 'futura-pt', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+  * {
+   	font-family: 'Raleway', sans-serif;
     font-weight: 300;
-   }
+}
+ 
+  h4 {
+    padding-top: 2.5em;
+  }
+ .inline-block {
+    border-bottom: 1px solid rgb(142,42,139);
+ }
+ a {
+  color: rgb(142,42,139);
+ }
+ a:hover {
+  color: rgb(142,42,139);
+ }
  /* -----------------------------  NAVBAR TOP -------------------------- */
  .navbar {
   background-color: #ffffff;
@@ -27,18 +39,14 @@ body {
     color: #2a2a2a;
     letter-spacing: 0.3em;
     font-size: 1.4em;
-    font-weight: 100;
+    font-weight: 200;
  }
  .navbar-inverse .navbar-brand:hover {
-    text-decoration: none;
-    color: #2a2a2a;
-    letter-spacing: 0.3em;
-    font-size: 1.4em;
-    font-weight: 100;
+    color: #2a2a2a !important;
 }
 .navbar-nav > li > a {
     color: #989898;
-    font-family: Helvetica,Arial,sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-size: 0.9em;
     font-weight: 300;
     letter-spacing: 0.15em;
