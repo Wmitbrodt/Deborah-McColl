@@ -1,6 +1,6 @@
 body {
         padding-top: 90px;
-       
+
     }
    * {
     font-family: 'Raleway', sans-serif;
@@ -51,7 +51,7 @@ body {
     text-decoration: none;
     text-transform: uppercase;
 }
- ul.nav a:hover { 
+ ul.nav a:hover {
   color: rgb(142,42,139) !important;
   transition: all 0.5s ease-in-out;
     -webkit-transition: all 0.5s ease-in-out;
@@ -88,6 +88,43 @@ body {
 .visible-xs {
   letter-spacing: 0.1em;
 }
+
+/**************
+  Drop down menu navbar
+
+  Bootstrap overrides 💅🏻
+******************/
+ul.dropdown-menu {
+  min-width: 128px;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: #fff !important;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border: 1px solid #eee;
+    color: #9d9d9d;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #9d9d9d;
+    white-space: nowrap;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: #fff !important;
+    color: #8e2a8b !important;
+}
+
 /* ------------------------------- MAIN CONTENT  --------------------- */
 
 /* ------------------------------- IMAGES ---------------------------- */
@@ -97,7 +134,7 @@ body {
 /* ------------------------------- TYPOGRAPHY ------------------------- */
 
 p {
-  padding-top: 1em; 
+  padding-top: 1em;
   font-weight: 200;
   display: block;
     -webkit-margin-before: 1em;

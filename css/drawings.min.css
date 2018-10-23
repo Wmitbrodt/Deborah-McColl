@@ -94,6 +94,43 @@ ul.nav a:hover {
     background-color: #fff;
 }
 
+/**************
+  Drop down menu navbar
+
+  Bootstrap overrides 💅🏻
+******************/
+ul.dropdown-menu {
+  min-width: 128px;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: #fff;
+}
+
+.navbar-nav>li>.dropdown-menu {
+    margin-top: 0;
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    border: 1px solid #eee;
+    color: #9d9d9d;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 3px 20px;
+    clear: both;
+    font-weight: normal;
+    line-height: 1.42857143;
+    color: #9d9d9d;
+    white-space: nowrap;
+}
+
+.navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
+    background-color: #fff !important;
+    color: #8e2a8b !important;
+}
+
+
 .visible-xs {
     letter-spacing: .1em;
 }
