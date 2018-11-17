@@ -14,7 +14,7 @@
         <image:title>Intercellular No.2, Deborah McColl. Drawing</image:title>
       </image:image>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/Atlas_Project-Intercellular_No.4_crop.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/atlas_project-intercellular_no.4_crop.jpg</image:loc>
         <image:title>Intercellular No.3, Deborah McColl. Drawing</image:title>
       </image:image>
       <image:image>
@@ -38,7 +38,7 @@
         <image:title>Mexican Skies.</image:title>
       </image:image>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-Correo-Aereo-Mexico-crop.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-correo-aereo-mexico-crop.jpg</image:loc>
         <image:title>Correo Aereo Mexico. Deborah McColl. Victoria, BC.</image:title>
       </image:image>
       <image:image>
@@ -84,7 +84,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-Correo-Aereo-Mexico.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-correo-aereo-mexico.jpg</image:loc>
         <image:title>80-Correo-Aereo-Mexico</image:title>
       </image:image>
   </url>
@@ -310,7 +310,7 @@
         <image:title>Intercellular No.2, Deborah McColl. Drawing</image:title>
       </image:image>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/Atlas_Project-Intercellular_No.4_crop.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/atlas_project-intercellular_no.4_crop.jpg</image:loc>
         <image:title>Intercellular No.3, Deborah McColl. Drawing</image:title>
       </image:image>
       <image:image>
@@ -334,7 +334,7 @@
         <image:title>Mexican Skies.</image:title>
       </image:image>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-Correo-Aereo-Mexico-crop.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/80-correo-aereo-mexico-crop.jpg</image:loc>
         <image:title>Correo Aereo Mexico. Deborah McColl. Victoria, BC.</image:title>
       </image:image>
       <image:image>
@@ -542,7 +542,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
       <image:image>
-        <image:loc>http://www.deborah-mccoll.ca/img/drawings/Atlas_no.2-intercellular.jpg</image:loc>
+        <image:loc>http://www.deborah-mccoll.ca/img/drawings/atlas_no.2-intercellular.jpg</image:loc>
         <image:title>Intercellular-No.2</image:title>
       </image:image>
   </url>
