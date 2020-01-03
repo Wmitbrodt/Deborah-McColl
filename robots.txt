@@ -1,7 +1,7 @@
 User-agent: Googlebot
 Disallow: 
 
-sitemap: http://www.deborah-mccoll.ca/sitemap.xml
-sitemap: http://www.deborah-mccoll.ca/sitemap-images.xml
+sitemap: https://www.deborah-mccoll.ca/sitemap.xml
+sitemap: https://www.deborah-mccoll.ca/sitemap-images.xml
 sitemap: http://deborah-mccoll.ca/sitemap.xml
 sitemap: http://deborah-mccoll.ca/sitemap-images.xml
