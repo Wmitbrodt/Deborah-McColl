@@ -144,8 +144,8 @@
         <image:title>Joy-of-Cook</image:title>
       </image:image>
       <image:image>
-        <image:loc>https://www.deborah-mccoll.ca/img/paintings/Herbert's_shoes_crop2.jpg</image:loc>
-        <image:title>Herbert's-shoes</image:title>
+        <image:loc>https://www.deborah-mccoll.ca/img/paintings/Herberts_shoes_crop2.jpg</image:loc>
+        <image:title>Herberts-shoes</image:title>
       </image:image>
       <image:image>
         <image:loc>https://www.deborah-mccoll.ca/img/paintings/Dusk_Oil_painting_crop2.jpg</image:loc>
@@ -243,7 +243,7 @@
     <priority>0.8</priority>
       <image:image>
         <image:loc>https://www.deborah-mccoll.ca/img/paintings2/Herberts_shoes.jpg</image:loc>
-        <image:title>herbert's shoes</image:title>
+        <image:title>Herberts shoes</image:title>
       </image:image>
   </url>
   <url>
