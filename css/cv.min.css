@@ -21,6 +21,7 @@ h1,h2{margin-bottom:15px;padding-top:10px;line-height:1.3em}*,.navbar-nav>li>a,h
       display: block;
       padding: 3px 20px;
       clear: both;
+      font-size: 14px;
       font-weight: normal;
       line-height: 1.42857143;
       color: #9d9d9d;
