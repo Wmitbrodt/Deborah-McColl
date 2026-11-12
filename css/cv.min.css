@@ -9,10 +9,6 @@ h1,h2{margin-bottom:15px;padding-top:10px;line-height:1.3em}*,.navbar-nav>li>a,h
     min-width: 128px;
   }
 
-  .navbar-inverse .navbar-nav>.open>a, .navbar-inverse .navbar-nav>.open>a:hover, .navbar-inverse .navbar-nav>.open>a:focus {
-      background-color: #fff !important;
-  }
-
   .navbar-nav>li>.dropdown-menu {
       margin-top: 0;
       border-top-right-radius: 0;
